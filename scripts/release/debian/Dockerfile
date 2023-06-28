@@ -1,4 +1,4 @@
-ARG base_image=ubuntu:xenial
+ARG base_image=ubuntu:xenial-20210416
 FROM ${base_image} AS build-env
 
 # Update APT packages
