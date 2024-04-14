@@ -99,7 +99,7 @@ cryptography==38.0.4
 distro==1.6.0
 fabric==2.4.0
 humanfriendly==10.0
-idna==2.8
+idna==3.7
 invoke==1.2.0
 isodate==0.6.1
 javaproperties==0.5.1
